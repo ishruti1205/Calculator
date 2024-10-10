@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Light theme -->
+    <style name="Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:background">@color/lightWhiteColor</item>
+        <item name="android:textColorPrimary">@color/blackColor</item>
+        <item name="android:textColorSecondary">@color/grayColor</item>
+        <item name="android:textColorTertiary">@color/grayColor</item>
+        <item name="buttonTintPrimary">@color/whiteColor</item>
+        <item name="buttonTintSecondary">@color/lightGrayColor</item>
+        <item name="buttonTintTertiary">@color/grayColor</item>
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+</resources>

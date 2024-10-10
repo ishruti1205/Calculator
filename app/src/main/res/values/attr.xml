@@ -1,0 +1,5 @@
+<resources>
+    <attr name="buttonTintPrimary" format="color"/>
+    <attr name="buttonTintSecondary" format="color"/>
+    <attr name="buttonTintTertiary" format="color"/>
+</resources>

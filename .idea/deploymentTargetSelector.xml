@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2024-10-04T17:27:39.185411Z">
+        <DropdownSelection timestamp="2024-10-10T20:37:17.213371300Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="PhysicalDevice" identifier="serial=ZF65254856" />
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\ASUS\.android\avd\Realme_9_Pro_5g_API_34_1.avd" />
             </handle>
           </Target>
         </DropdownSelection>

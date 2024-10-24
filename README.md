@@ -1,10 +1,10 @@
 # Calculator Application
 
-A simple arithmetic calculator Android application, provides basic arithmetic operations like addition, subtraction, multiplication, division and modulus, with a clean and intuitive user interface.
+A simple arithmetic calculator Android application, provides basic arithmetic operations like addition, subtraction, multiplication, division and percentage, with a clean and intuitive user interface.
 
 ## Features
 
-- **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, division and modulus.
+- **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, division and percentage.
 - **Advanced Calculations with Rhino:** Utilizes the [Rhino JavaScript engine](https://github.com/APISENSE/rhino-android) to handle complex expressions and ensure precise calculations.
 - **Real-time Results:**  Instantly displays the result as you input values.
 - **AC Button:** Reset the entire input and result with a single tap using the **AC** (All Clear) button.
